@@ -52,3 +52,5 @@ npm install --save uuid
 ```
 
 # Aula 10
+
+Utilizando o exercício realizado na Aula 8 e 9, realize a Integração Contínua/Entrega Contínua (CI/CD) com GitHub Actions
