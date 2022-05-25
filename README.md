@@ -34,10 +34,7 @@ Essa API foi desenvolvida em JavaScript usando o framework NodeJS. O banco de da
 
 Como funcionalidades dos Projetos, pode-se:
 
-Adiciona nova música na coleção do banco de dados MongoDB;
-Lista todas as músicas cadastradas no banco de dados;
-Atualiza o nome de uma música baseada pelo nome da banda;
-Exclui uma música baseado pelo nome da banda.
+Adiciona nova música na coleção do banco de dados MongoDB; Lista as músicas cadastradas no banco de dados; Atualiza o nome de uma música; Exclui uma música.
 
 ## Comandos usados
 
