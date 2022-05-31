@@ -2,7 +2,7 @@
 
 Atualizando Listas de Exercícios
 
-- [ ] Aula 2
+- [x] Aula 2
 - [x] Aula 3
 - [x] Aula 4
 - [x] Entrega dos integrantes do Grupo para o Projeto
